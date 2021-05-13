@@ -28,3 +28,11 @@
    - **Apple File System (AFS):** Used by Mac OS systems.
  
    - **Fourth Extended File System (Ext4):** Used in most Linux distributions.
+
+
+## Types of memory storage
+
+- Mechanical hard drives
+- Flash storage 
+- SSD - warrants caution as data can be wiped out very quickly
+- SD or microSD cards
