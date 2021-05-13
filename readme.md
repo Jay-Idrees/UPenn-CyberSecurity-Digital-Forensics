@@ -14,3 +14,8 @@
      - **Advanced Forensic Format (AFF):** The AFF format is for disk images and related forensic metadata.
        - .AFF
        - .AFF4
+
+- One concern with working with live systems is that the data can get lost if there is powerloss and there is always a risk that there is a hacker who maybe trying to get into the system, waiting for someone to logback in
+
+  - A **write blocker** is a device that allows anything connected to it to perform only read operations, therefore preventing the drive from being written to and overwriting  evidence.
+ 
