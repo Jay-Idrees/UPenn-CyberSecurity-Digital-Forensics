@@ -67,3 +67,14 @@ Note that USBs SSD and SD cards use similar type of technologies and are conside
 
 ## Example Case
 
+# Autopsy Workflow
+
+**Autopsy** is a software this is used to perform foreisic analysis. The workflow for using the autopsy software is as below:
+
+- **Create a case**
+- **Add an Image**
+- **Configure Ingest Modules** - helps with categorization and labeling of the evidence
+- **Ingest in Progress** - Its the process of loading the .E01 file into Autopsy
+- **Manual Analysis** - Manually searching through the file system
+- **Create a Timeline** - Creating a timeline of events
+- **Report**
