@@ -33,6 +33,8 @@
 ## Types of memory storage
 
 - Mechanical hard drives
-- Flash storage - Allows quicker read and write access
+- Flash storage e-g USB - Allows quicker read and write access
 - SSD - warrants caution as data can be wiped out very quickly
 - SD or microSD cards
+
+Note that USBs SSD and SD cards use similar type of technologies
