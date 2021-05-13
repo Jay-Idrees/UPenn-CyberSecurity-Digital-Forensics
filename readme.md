@@ -58,7 +58,7 @@ Note that USBs SSD and SD cards use similar type of technologies and are conside
 
 - Collection of Evidence / Forensic Recovery - What data to collect and the best way to collect it.
 
-- Preservation of Evidence - A read only master is made and stored in a digital valt, all processing is done on a copy. A **Write blocker** is used to prevent data contamination. In addition, a **cryptogenic digest** or hash is created to ensure that the evidence is not altered
+- Preservation of Evidence - A read only master is made and stored in a digital valt, all processing is done on a copy. A **Write blocker** is used to prevent data contamination. In addition, a **cryptogenic digest** or **hash** is created to ensure that the evidence is not altered
 
 - Electronic Discovery and Analysis - 
 
