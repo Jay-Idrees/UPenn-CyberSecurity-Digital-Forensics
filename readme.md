@@ -38,3 +38,16 @@
 - SD or microSD cards
 
 Note that USBs SSD and SD cards use similar type of technologies and are considerd **non-volatile** as they hold data even when not connected to power
+
+
+## Digital forensics types and methodologies
+
+- Email Forensics 
+
+- Mobile Device Forensics
+
+- Network Forensics Uses wireshark, Snort
+
+- Memory Forensics - Different from disk Forensics as it also investigates volatile memory
+
+- Computer Forensics 
