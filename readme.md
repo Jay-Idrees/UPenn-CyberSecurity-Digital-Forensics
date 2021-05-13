@@ -19,3 +19,12 @@
 
   - A **write blocker** is a device that allows anything connected to it to perform only read operations, therefore preventing the drive from being written to and overwriting  evidence.
  
+ You may encounter the following file systems during an investigation:
+
+   - **New Technology File System (NTFS):** Supported under Windows 10, 8, 7, Vista, XP, and NT.
+ 
+   - **File Allocation Table (FAT):** Supported by older and newer versions of Windows.
+ 
+   - **Apple File System (AFS):** Used by Mac OS systems.
+ 
+   - **Fourth Extended File System (Ext4):** Used in most Linux distributions.
