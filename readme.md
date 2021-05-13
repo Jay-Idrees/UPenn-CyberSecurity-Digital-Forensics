@@ -51,3 +51,11 @@ Note that USBs SSD and SD cards use similar type of technologies and are conside
 - Memory Forensics - Different from disk Forensics as it also investigates volatile memory
 
 - Computer Forensics 
+
+## Digital Forensic Framework
+
+- Prepration for an Investigation
+- Collection of Evidence / Forensic Recovery
+- Preservation of Evidence
+- Electronic Discovery and Analysis
+- Present and Report
