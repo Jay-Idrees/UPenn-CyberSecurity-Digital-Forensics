@@ -60,6 +60,6 @@ Note that USBs SSD and SD cards use similar type of technologies and are conside
 
 - Preservation of Evidence - A read only master is made and stored in a digital valt, all processing is done on a copy. A **Write blocker** is used to prevent data contamination. In addition, a **cryptogenic digest** or **hash** is created for data integrity to ensure that the evidence is not altered during the investigative process
 
-- Electronic Discovery and Analysis - Document: Time, Date, location and applications used
+- Electronic Discovery and Analysis - Document: Time, Date, location and applications used. The Evidence must be reporducible
 
 - Present and Report
