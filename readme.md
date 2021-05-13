@@ -37,4 +37,4 @@
 - SSD - warrants caution as data can be wiped out very quickly
 - SD or microSD cards
 
-Note that USBs SSD and SD cards use similar type of technologies
+Note that USBs SSD and SD cards use similar type of technologies and are considerd *non-volatile* as they hold data even when not connected to power
