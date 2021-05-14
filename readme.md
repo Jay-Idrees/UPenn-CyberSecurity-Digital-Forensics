@@ -79,7 +79,7 @@ Note that USBs SSD and SD cards use similar type of technologies and are conside
 - **Create a Timeline** - Creating a timeline of events
 - **Report**
 
-# Extracting data from an iphone
+# Extracting data from an iPhone
 
 - Has two partitions: **root**- contains operating system level functions and **var** contains user data
 
@@ -96,3 +96,7 @@ Note that USBs SSD and SD cards use similar type of technologies and are conside
   - `/root`
   - `/Logs`
   - `/logs`
+
+ - The iPhone's directory structure is similar to Linux because it is Unix based.
+
+ - The data is stored in SQL databases
