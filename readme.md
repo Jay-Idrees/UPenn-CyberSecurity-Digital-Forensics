@@ -131,3 +131,6 @@ Note that USBs SSD and SD cards use similar type of technologies and are conside
 
   - `Safari/History.plist` contains internet browsing history.
     - `/logs` and `/Logs` contain device information.
+
+
+- `History.plist` stores iphone browsing history
