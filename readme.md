@@ -1,4 +1,4 @@
-# Network Forensics
+# Digital and Network Forensics
 
 
   - Forensic backups (system image or bit-level backups)  create an exact replica of all contents contained on the entire hard drive, including slack space, free space, and deleted files.
@@ -134,3 +134,5 @@ Note that USBs SSD and SD cards use similar type of technologies and are conside
 
 
 - `History.plist` stores iphone browsing history
+
+- `File metadata` tab in data content 
