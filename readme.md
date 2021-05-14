@@ -85,8 +85,14 @@ Note that USBs SSD and SD cards use similar type of technologies and are conside
 
 - Data is first copied using the bit level which recovers deleted messages  as well as GPS coordinates and cell tower locations
 
-- Iphone also alows to bck up their data to the cloud
+- Iphone also alows to back up their data to the cloud
 
 - Cloud Challanges  - Isolating and securing the evidence is challenging when data is in multiple locations. Also, SLAs must be recognized when dealing with other companies, in addition to other legal issues.
 
-- 
+- Important Directories
+  - `/mobile`
+  - `/Applications`
+  - `/Library`
+  - `/root`
+  - `/Logs`
+  - `/logs`
