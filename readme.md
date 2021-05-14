@@ -99,6 +99,35 @@ Note that USBs SSD and SD cards use similar type of technologies and are conside
 
  - The iPhone's directory structure is similar to Linux because it is Unix based.
 
- - The data is stored in SQL (Structure Query Language) databases.
+ - The data is stored in SQL (Structure Query Language) databases. The following are the database files
 
- - 
+ - These are the main databases that applications such as mail, SMS, calendar, and the address book use:
+ 
+  - `AddressBook.sqlitedb` contains contact information and personal data like name, email address, etc.
+
+  - `AddressBookImages.sqlitedb` contains images associated with saved contacts.
+
+  - `Calendar.sqlitedb` contains calendar details and events information.
+
+  - `CallHistory.db` contains incoming and outgoing call logs including phone numbers and time stamps.
+
+  - `sms.db` contains text and multimedia messages along with their time stamps.
+
+  - `voicemail.db` contains voicemail messages.
+
+  - `Safari/Bookmarks.db` contains saved URL addresses.
+
+  - `Envelope Index` contains email addresses.
+
+  - `consolidated.db` contains GPS tracking data.
+
+  - `locationd` contains the Google coordinates of places.
+ 
+ iPhones also have data stored in `plists`, or `property lists`. A `plist` stores configuration information, call history, and cache information (i.e., websites visited).
+ 
+  - `Maps/History.plist` keeps track of location searches.
+
+  - `Maps/Bookmarks.plist` contains bookmarks.
+
+  - `Safari/History.plist` contains internet browsing history.
+    - `/logs` and `/Logs` contain device information.
