@@ -99,4 +99,6 @@ Note that USBs SSD and SD cards use similar type of technologies and are conside
 
  - The iPhone's directory structure is similar to Linux because it is Unix based.
 
- - The data is stored in SQL databases
+ - The data is stored in SQL (Structure Query Language) databases.
+
+ - 
