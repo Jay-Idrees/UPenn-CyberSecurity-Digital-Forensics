@@ -78,3 +78,15 @@ Note that USBs SSD and SD cards use similar type of technologies and are conside
 - **Manual Analysis** - Manually searching through the file system
 - **Create a Timeline** - Creating a timeline of events
 - **Report**
+
+# Extracting data from an iphone
+
+- Has two partitions: **root**- contains operating system level functions and **var** contains user data
+
+- Data is first copied using the bit level which recovers deleted messages  as well as GPS coordinates and cell tower locations
+
+- Iphone also alows to bck up their data to the cloud
+
+- Cloud Challanges  - Isolating and securing the evidence is challenging when data is in multiple locations. Also, SLAs must be recognized when dealing with other companies, in addition to other legal issues.
+
+- 
